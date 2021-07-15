@@ -16,13 +16,13 @@ programa
 		{
 	se (n[i]==numero)
 			     {
-			     	escreva("O seu numero está na posição n["+i+"]" )
+			     	escreva("O seu numero está na posição n["+i+"] do vetor" )
 			     	achou=verdadeiro
 			     }
 
 				se(nao achou)
 				{
-					escreva("\n numero naõ encontrado em nenhuma posicão ")
+					escreva("\n numero não encontrado em nenhuma posicão do vetor ")
 				}
 			
 		}
@@ -35,7 +35,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 49; 
+ * @POSICAO-CURSOR = 379; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
