@@ -23,12 +23,22 @@ para(inteiro co=0;co<TAMANHO;co++)
 	}
 		
 }
+
+/*          RESULTADO DA COMPILAÇÃO 
+ *           [8][3][1][3][2]
+             [7][2][1][7][1]
+             [9][1][6][1][6]
+             [1][6][6][5][5]
+             [9][6][7][7][4]
+ */
+
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 298; 
+ * @POSICAO-CURSOR = 526; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
